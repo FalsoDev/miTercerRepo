@@ -1,0 +1,15 @@
+/workspaces/miTercerRepo/proyecto1/probando/bin/Debug/net8.0/probando
+/workspaces/miTercerRepo/proyecto1/probando/bin/Debug/net8.0/probando.deps.json
+/workspaces/miTercerRepo/proyecto1/probando/bin/Debug/net8.0/probando.runtimeconfig.json
+/workspaces/miTercerRepo/proyecto1/probando/bin/Debug/net8.0/probando.dll
+/workspaces/miTercerRepo/proyecto1/probando/bin/Debug/net8.0/probando.pdb
+/workspaces/miTercerRepo/proyecto1/probando/obj/Debug/net8.0/probando.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/miTercerRepo/proyecto1/probando/obj/Debug/net8.0/probando.AssemblyInfoInputs.cache
+/workspaces/miTercerRepo/proyecto1/probando/obj/Debug/net8.0/probando.AssemblyInfo.cs
+/workspaces/miTercerRepo/proyecto1/probando/obj/Debug/net8.0/probando.csproj.CoreCompileInputs.cache
+/workspaces/miTercerRepo/proyecto1/probando/obj/Debug/net8.0/probando.sourcelink.json
+/workspaces/miTercerRepo/proyecto1/probando/obj/Debug/net8.0/probando.dll
+/workspaces/miTercerRepo/proyecto1/probando/obj/Debug/net8.0/refint/probando.dll
+/workspaces/miTercerRepo/proyecto1/probando/obj/Debug/net8.0/probando.pdb
+/workspaces/miTercerRepo/proyecto1/probando/obj/Debug/net8.0/probando.genruntimeconfig.cache
+/workspaces/miTercerRepo/proyecto1/probando/obj/Debug/net8.0/ref/probando.dll
