@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/miTercerRepo/proyecto1/probando/probando.csproj": {}
+    "/home/jujgomezru/platzi/miTercerRepo/proyecto1/probando/probando.csproj": {}
   },
   "projects": {
-    "/workspaces/miTercerRepo/proyecto1/probando/probando.csproj": {
+    "/home/jujgomezru/platzi/miTercerRepo/proyecto1/probando/probando.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/miTercerRepo/proyecto1/probando/probando.csproj",
+        "projectUniqueName": "/home/jujgomezru/platzi/miTercerRepo/proyecto1/probando/probando.csproj",
         "projectName": "probando",
-        "projectPath": "/workspaces/miTercerRepo/proyecto1/probando/probando.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/miTercerRepo/proyecto1/probando/obj/",
+        "projectPath": "/home/jujgomezru/platzi/miTercerRepo/proyecto1/probando/probando.csproj",
+        "packagesPath": "/home/jujgomezru/.nuget/packages/",
+        "outputPath": "/home/jujgomezru/platzi/miTercerRepo/proyecto1/probando/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/home/jujgomezru/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net6.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -32,16 +32,17 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.428/RuntimeIdentifierGraph.json"
         }
       }
     }

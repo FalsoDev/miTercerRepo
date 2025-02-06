@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "7iX8Q0R7sK0=",
+  "dgSpecHash": "2eaWxB9lgK88xN/NwLQyn4aYmo6jO/T/GF9OiqtPMbd8WQNU8dQvP6q0oNh5yK1goCID3oMWCOxeUQUeWzdyMw==",
   "success": true,
-  "projectFilePath": "/workspaces/miTercerRepo/proyecto1/probando/probando.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/jujgomezru/platzi/miTercerRepo/proyecto1/probando/probando.csproj",
+  "expectedPackageFiles": [
+    "/home/jujgomezru/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
